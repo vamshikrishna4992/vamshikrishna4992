@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/vamshikrishna4992/vamshikrishna4992/raw/main/DALL·E%202024-11-09%2019.28.23%20-%20A%20clean,%20professional,%20and%20tech-themed%20banner%20for%20a%20developer%20profile.%20Background%20with%20a%20gradient%20of%20blue%20and%20dark%20shades,%20with%20a%20subtle%20geometric%20pat.webp" alt="Vamshi Krishna Banner">
+  <img src="https://github.com/vamshikrishna4992/vamshikrishna4992/raw/main/DALL·E%202024-11-09%2019.28.23%20-%20A%20clean,%20professional,%20and%20tech-themed%20banner%20for%20a%20developer%20profile.%20Background%20with%20a%20gradient%20of%20blue%20and%20dark%20shades,%20with%20a%20subtle%20geometric%20pat.webp" alt="Vamshi Krishna Banner" height="250" width="700" >
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
 <h3 align="center">Aspiring Full Stack Developer | Building from Front to Back</h3>
 
-<img align="right" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshikrishna4992&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrishna4992" /> </p>
 
